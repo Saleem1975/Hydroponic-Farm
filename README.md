@@ -38,8 +38,9 @@ These tables are then imported into **Power BI** to create interactive visualiza
   - Determine the **optimal planting and harvesting schedule**.
   - Calculate **maximum profit**.
   - Respect volume, productivity, and demand constraints.
+  - Use the cleaned cleaned_selling_price_data file as an input for this model. Please note that the table needs to be pivotedbefore use.
 
-- The final **optimal solution** is saved to `Solution_trial1.csv` and visualized in Power BI (e.g., Gantt charts).
+- The final **optimal solution** is saved to `Solution_trial1.csv` and visualized in Power BI (e.g., Gantt charts). The Table was transformed before used.
 
 ## 📈 OR Model Details
 
