@@ -1,0 +1,677 @@
+Date,Vegetable,SellingPrice
+1/1/2024,Artichoke,500
+1/8/2024,Artichoke,500
+1/15/2024,artichoke,500
+1/22/2024,Artichoke,500
+1/29/2024,Artichoke,500
+2/5/2024,Artichoke,500
+2/12/2024,Artichoke,500
+2/19/2024,Artichoke.,500
+26-2-2024,Artichoke,500
+3/4/2024,Artichoke,
+3/11/2024,Artichoke,375
+3/18/2024,Artichoke,346
+3/25/2024,Artichoke,125
+4/1/2024,Artichoke ,288
+4/8/2024,Artichoke,200
+4/15/2024,Artichoke,200
+4/22/2024,Artichoke,200
+4/29/2024,Artichoke,250
+5/6/2024,Artichoke,200
+5/13/2024,Artichoke,250
+5/20/2024,Artichoke,250
+5/27/2024,Artichoke,250
+6/3/2024,Artichoke,250
+6/10/2024,Artichoke,250
+6/17/2024,Artichoke,333
+6/24/2024,Artichoke,17
+7/1/2024,Artichoke,500
+7/8/2024,Artichoke,500
+7/15/2024,Artichoke,500
+7/22/2024,Artichoke,500
+7/29/2024,Artichoke,500
+8/5/2024,Artichoke,500
+8/12/2024,Artichoke,500
+8/19/2024,artichoke,500
+8/26/2024,Artichoke,500
+9/2/2024,Artichoke,500
+9/9/2024,Artichoke,500
+9/16/2024,Artichoke,500
+9/23/2024,Artichoke,500
+9/30/2024,Artichoke ,500
+10/7/2024,Artichoke,500
+10/14/2024,Artichoke,500
+10/21/2024,Artichoke.,500
+10/28/2024,Artichoke,500
+11/4/2024,Artichoke,500
+11/11/2024,Artichoke,500
+11/18/2024,Artichoke,500
+11/25/2024,Artichoke ,500
+12/2/2024,Artichoke.,500
+12/9/2024,Artichoke,500
+12/16/2024,Artichoke,500
+12/23/2024,Artichoke,500
+1/1/2024,Arugula,35
+1/8/2024,Arugula,23
+1/15/2024,Arugula,20
+1/22/2024,Arugula,15
+1/29/2024,Arugula,13
+2/5/2024,Arugula,10
+2/12/2024,Arugula,13
+2/19/2024,Arugula,24
+2/26/2024,Arugula,30
+3/4/2024,Arugula,45
+3/11/2024,Arugula,20
+3/18/2024,Arugula,15
+3/25/2024,Arugula,15
+4/1/2024,Arugula,17
+4/8/2024,Arugula,23
+4/15/2024,Arugula,12
+4/22/2024,Arugula,13
+4/29/2024,Arugula,20
+5/6/2024,Arugula,15
+5/13/2024,Arugula,25
+5/20/2024,Arugula,27
+5/27/2024,Arugula,26
+6/3/2024,Arugula,25
+6/10/2024,Arugula,23
+6/17/2024,Arugula,17
+6/24/2024,Arugula,20
+7/1/2024,Arugula,25
+7/8/2024,Arugula,20
+7/15/2024,Arugula,35
+7/22/2024,Arugula,30
+7/29/2024,Arugula,25
+8/5/2024,Arugula,25
+8/12/2024,Arugula,20
+8/19/2024,Arugula,20
+8/26/2024,Arugula,20
+9/2/2024,Arugula,25
+9/9/2024,Arugula,20
+9/16/2024,Arugula,12
+9/23/2024,Arugula,
+9/30/2024,Arugula,8
+10/7/2024,Arugula,10
+10/14/2024,Arugula,10
+10/21/2024,Arugula,15
+10/28/2024,Arugula,25
+11/4/2024,Arugula,18
+11/11/2024,Arugula,20
+11/18/2024,Arugula,17
+11/25/2024,Arugula,10
+12/2/2024,Arugula,17
+12.9.2025,Arugula,12
+12/16/2024,Arugula,17
+12/23/2024,Arugula,20
+1/1/2024,Cabbage,35
+1/8/2024,Cabbage,30
+1/15/2024,Cabbage,30
+1/22/2024,Cabbage,27
+1/29/2024,Cabbage,23
+2/5/2024,Cabbage,40
+2/12/2024,Cabbage,19
+2/19/2024,Cabbage,40
+2/26/2024,Cabbage,15
+3/4/2024,Cabbage,17
+3/11/2024,Cabbage,15
+3/18/2024,Cabbage,120
+3/25/2024,Cabbage,10
+4/1/2024,Cabbage,8
+4/8/2024,Cabbage,9
+4/15/2024,Cabbage,13
+4/22/2024,Cabbage,13
+4/29/2024,Cabbage,15
+5/6/2024,Cabbage,11
+5/13/2024,Cabbage,10
+5/20/2024,Cabbage,8
+5/27/2024,Cabbage,7
+6/3/2024,Cabbage,7
+6/10/2024,Cabbage,8
+6/17/2024,Cabbage,7
+6/24/2024,Cabbage,9
+7/1/2024,Cabbage,10
+7/8/2024,Cabbage,10
+7/15/2024,Cabbage,20
+7/22/2024,Cabbage,17
+7/29/2024,Cabbage,15
+8/5/2024,Cabbage,25
+8/12/2024,Cabbage,25
+8/19/2024,Cabbage,20
+8/26/2024,Cabbage,18
+9/2/2024,Cabbage,15
+9/9/2024,Cabbage,15
+9/16/2024,Cabbage,
+9/23/2024,Cabbage,15
+9/30/2024,Cabbage,12
+10/7/2024,Cabbage,12
+10/14/2024,Cabbage,12
+10/21/2024,Cabbage,10
+10/28/2024,Cabbage,12
+11/4/2024,Cabbage,15
+11/11/2024,Cabbage,17
+11/18/2024,Cabbage,15
+11/25/2024,Cabbage,20
+12/2/2024,Cabbage,25
+12/9/2024,Cabbage,25
+12/16/2024,Cabbage,30
+12/23/2024,Cabbage,40
+1/1/2024,Celery,80
+1/8/2024,Celery,80
+1/15/2024,Celery,80
+1/22/2024,Celery,80
+1/29/2024,Celery,80
+2/5/2024,Celery,80
+2/12/2024,Celery,80
+2/19/2024,Celery,80
+2/26/2024,Celery,80
+3/4/2024,Celery,80
+3/11/2024,Celery,75
+3/18/2024,Celery,80
+3/25/2024,Celery,80
+4/1/2024,Celery,80
+4/8/2024,Celery,80
+4/15/2024,Celery,80
+4/22/2024,Celery,80
+4/29/2024,Celery,80
+5/6/2024,Celery,80
+5/13/2024,Celery,80
+5/20/2024,Celery,80
+5/27/2024,Celery,
+6/3/2024,Celery,100
+6/10/2024,Celery,150
+6/17/2024,Celery,200
+6/24/2024,Celery,200
+7/1/2024,Celery,150
+7/8/2024,Celery,150
+7/15/2024,Celery,200
+7/22/2024,Celery,225
+7/29/2024,Celery,250
+8/5/2024,Celery,250
+8/12/2024,Celery,225
+8/19/2024,Celery,300
+8/26/2024,Celery,300
+9/2/2024,Celery,325
+9/9/2024,Celery,300
+9/16/2024,Celery,300
+9/23/2024,Celery,300
+9/30/2024,Celery,300
+10/7/2024,Celery,250
+10/14/2024,Celery,250
+10/21/2024,Celery,150
+10/28/2024,Celery,150
+11/4/2024,Celery,150
+11/11/2024,Celery,80
+11/18/2024,Celery,
+11/25/2024,Celery,80
+12/2/2024,Celery,100
+12/9/2024,Celery,80
+12/16/2024,Celery,80
+12/23/2024,Celery,75
+1/1/2024,Jute mallow,140
+1/8/2024,Jute mallow,140
+1/15/2024,Jute mallow,140
+1/22/2024,Jute mallow,140
+1/29/2024,Jute mallow,140
+2/5/2024,Jute mallow,140
+2/12/2024,Jute mallow,140
+2/19/2024,Jute mallow,140
+2/26/2024,Jute mallow,140
+3/4/2024,Jute mallow,140
+3/11/2024,Jute mallow,100
+3/18/2024,Jute mallow,95
+3/25/2024,Jute mallow,70
+4/1/2024,Jute mallow,45
+4/8/2024,Jute mallow,45
+4/15/2024,Jute mallow,30
+4/22/2024,Jute mallow,33
+4/29/2024,Jute mallow,22
+5/6/2024,jute Mallow,18
+5/13/2024,Jute mallow,17
+5/20/2024,Jute mallow,20
+5/27/2024,Jute mallow,19
+6/3/2024,Jute mallow,26
+6/10/2024,Jute mallow,12
+6/17/2024,Jute mallow,10
+6/24/2024,Jute mallow,14
+7/1/2024,Jute mallow,15
+7/8/2024,Jute mallow,15
+7/15/2024,Jute mallow,15
+7/22/2024,Jute mallow,17
+7/29/2024,Jute mallow,18
+8/5/2024,Jute mallow,18
+8/12/2024,jute Mallow,20
+8/19/2024,Jute mallow,20
+8/26/2024,Jute mallow,16
+9/2/2024,Jute mallow,15
+9/9/2024,Jute mallow,15
+9/16/2024,Jute mallow,15
+9/23/2024,Jute mallow,10
+9/30/2024,jute Mallow,10
+10/7/2024,Jute mallow,10
+10/14/2024,Jute mallow,10
+10/21/2024,Jute mallow,15
+10/28/2024,Jute mallow,10
+11/4/2024,Jute mallow,30
+11/11/2024,Jute mallow,30
+11/18/2024,Jute mallow,27
+11/25/2024,Jute mallow,25
+12/2/2024,Jute mallow,15
+12/9/2024,Jute mallow,140
+12/16/2024,Jute mallow,140
+12/23/2024,Jute mallow,140
+1/1/2024,Kale,600
+1/8/2024,Kale,550
+1/15/2024,Kale,500
+1/22/2024,Kale,500
+1/29/2024,Kale,500
+2/5/2024,Kale,570
+2/12/2024,Kale,550
+2/19/2024,Kale,650
+2/26/2024,Kale,575
+3/4/2024,Kale,650
+3/11/2024,Kale,500
+3/18/2024,Kale,500
+3/25/2024,Kale,500
+4/1/2024,Kale,500
+4/8/2024,Kale,500
+4/15/2024,Kale,500
+4/22/2024,Kale,1300
+4/29/2024,Kale,500
+5/6/2024,Kale,500
+5/13/2024,Kale,500
+5/20/2024,Kale,500
+5/27/2024,Kale,
+6/3/2024,Kale,500
+6/10/2024,Kale,500
+6/17/2024,Kale,400
+6/24/2024,Kale,400
+7/1/2024,Kale,450
+7/8/2024,Kale,500
+7/15/2024,Kale,500
+7/22/2024,Kale,500
+7/29/2024,Kale,25
+8/5/2024,Kale,570
+8/12/2024,Kale,600
+8/19/2024,Kale,550
+8/26/2024,Kale,500
+9/2/2024,Kale,700
+9/9/2024,Kale,600
+9/16/2024,Kale,650
+9/23/2024,Kale,650
+9/30/2024,Kale,600
+10/7/2024,Kale,600
+10/14/2024,Kale,600
+10/21/2024,Kale,600
+10/28/2024,Kale,600
+11/4/2024,Kale,600
+11/11/2024,Kale,600
+11/18/2024,Kale,600
+11/25/2024,Kale,600
+12/2/2024,Kale,600
+12/9/2024,Kale,500
+12/16/2024,Kale,200
+12/23/2024,Kale,450
+1/1/2024,Leek,150
+1/8/2024,Leek,125
+1/15/2024,Leek,100
+1/22/2024,Leek,45
+1/29/2024,Leek,150
+2/5/2024,Leek,100
+2/12/2024,Leek,47
+2/19/2024,Leek,70
+2/26/2024,Leek,100
+3/4/2024,Leek,125
+3/11/2024,Leek,125
+3/18/2024,Leek,90
+3/25/2024,Leek,50
+4/1/2024,Leek,40
+4/8/2024,Leek,25
+4/15/2024,Leek,30
+4/22/2024,Leek,40
+4/29/2024,Leek,34
+5/6/2024,Leek,60
+5/13/2024,Leek,35
+5/20/2024,Leek,
+5/27/2024,Leek,35
+6/3/2024,Leek,45
+6/10/2024,Leek,40
+6/17/2024,Leek,40
+6/24/2024,Leek,55
+7/1/2024,Leek,65
+7/8/2024,Leek,80
+7/15/2024,Leek,65
+7/22/2024,Leek,65
+7/29/2024,Leek,75
+8/5/2024,Leek,75
+8/12/2024,Leek,70
+8/19/2024,Leek,100
+8/26/2024,Leek,80
+9/2/2024,Leek,80
+9/9/2024,Leek,80
+9/16/2024,Leek,80
+9/23/2024,Leek,17
+9/30/2024,Leek,80
+10/7/2024,Leek,80
+10/14/2024,Leek,80
+10/21/2024,Leek,85
+10/28/2024,Leek,90
+11/4/2024,Leek,100
+11/11/2024,Leek,110
+11/18/2024,Leek,110
+11/25/2024,Leek,100
+12/2/2024,Leek,100
+12/9/2024,Leek,100
+12/16/2024,Leek,110
+12/23/2024,Leek,80
+1/1/2024,Lettuce,20
+1/8/2024,Lettuce,20
+1/15/2024,Lettuce,20
+1/22/2024,Lettuce,20
+1/29/2024,Lettuce,20
+2/5/2024,Lettuce,20
+2/12/2024,Lettuce,20
+2/19/2024,Lettuce,
+2/26/2024,Lettuce,20
+3/4/2024,Lettuce,20
+3/11/2024,Lettuce,20
+3/18/2024,Lettuce,25
+3/25/2024,Lettuce,25
+4/1/2024,Lettuce,25
+4/8/2024,Lettuce,25
+4/15/2024,Lettuce,25
+4/22/2024,Lettuce,25
+4/29/2024,Lettuce,20
+5/6/2024,Lettuce,20
+5/13/2024,Lettuce,15
+5/20/2024,Lettuce,15
+5/27/2024,Lettuce,17
+6/3/2024,Lettuce,20
+6/10/2024,Lettuce,20
+6/17/2024,Lettuce,20
+6/24/2024,Lettuce,20
+7/1/2024,Lettuce,20
+7/8/2024,Lettuce,25
+7/15/2024,Lettuce,20
+7/22/2024,Lettuce,20
+7/29/2024,Lettuce,20
+8/5/2024,Lettuce,20
+8/12/2024,Lettuce,20
+8/19/2024,Lettuce,20
+8/26/2024,Lettuce,20
+9/2/2024,Lettuce,22
+9/9/2024,Lettuce,20
+9/16/2024,Lettuce,20
+9/23/2024,Lettuce,20
+9/30/2024,Lettuce,20
+10/7/2024,Lettuce,20
+10/14/2024,Lettuce,20
+10/21/2024,Lettuce,20
+10/28/2024,Lettuce,20
+11/4/2024,Lettuce,20
+11/11/2024,Lettuce,20
+11/18/2024,Lettuce,20
+11/25/2024,Lettuce,20
+12/2/2024,Lettuce,20
+12/9/2024,Lettuce,20
+12/16/2024,Lettuce,20
+12/23/2024,Lettuce,20
+1/1/2024,Mint,35
+1/8/2024,Mint,25
+1/15/2024,Mint,20
+1/22/2024,Mint,15
+1/29/2024,Mint,12
+2/5/2024,Mint,14
+2/12/2024,Mint,13
+2/19/2024,Mint,25
+2/26/2024,Mint,17
+3/4/2024,Mint,35
+3/11/2024,Mint,25
+3/18/2024,Mint,25
+3/25/2024,Mint,20
+4/1/2024,Mint,15
+4/8/2024,Mint,15
+4/15/2024,Mint,10
+4/22/2024,Mint,7
+4/29/2024,Mint,10
+5/6/2024,Mint,25
+5/13/2024,Mint,30
+5/20/2024,Mint,40
+5/27/2024,Mint,27
+6/3/2024,Mint,27
+6/10/2024,Mint,
+6/17/2024,Mint,15
+6/24/2024,Mint,15
+7/1/2024,Mint,15
+7/8/2024,Mint,15
+7/15/2024,Mint,30
+7/22/2024,Mint,40
+7/29/2024,Mint,49
+8/5/2024,Mint,40
+8/12/2024,Mint,30
+8/19/2024,Mint,20
+8/26/2024,Mint,25
+9/2/2024,Mint,20
+9/9/2024,Mint,20
+9/16/2024,Mint,30
+9/23/2024,Mint,27
+9/30/2024,Mint,17
+10/7/2024,Mint,20
+10/14/2024,Mint,20
+10/21/2024,Mint,10
+10/28/2024,Mint,15
+11/4/2024,Mint,25
+11/11/2024,Mint,12
+11/18/2024,Mint,10
+11/25/2024,Mint,10
+12/2/2024,Mint,15
+12/9/2024,Mint,17
+12/16/2024,Mint,20
+12/23/2024,Mint,30
+1/1/2024,Parsley,35
+1/8/2024,Parsley,20
+1/15/2024,Parsley,10
+1/22/2024,Parsley,15
+1/29/2024,Parsley,11
+2/5/2024,Parsley,16
+2/12/2024,Parsley,17
+2/19/2024,Parsley,28
+2/26/2024,Parsley,20
+3/4/2024,Parsley,27
+3/11/2024,Parsley,12
+3/18/2024,Parsley,
+3/25/2024,Parsley,15
+4/1/2024,Parsley,7
+4/8/2024,Parsley,9
+4/15/2024,Parsley,9
+4/22/2024,Parsley,8
+4/29/2024,Parsley,10
+5/6/2024,Parsley,20
+5/13/2024,Parsley,20
+5/20/2024,Parsley,17
+5/27/2024,Parsley,22
+6/3/2024,Parsley,8
+6/10/2024,Parsley,15
+6/17/2024,Parsley,15
+6/24/2024,Parsley,20
+7/1/2024,Parsley,25
+7/8/2024,Parsley,40
+7/15/2024,Parsley,35
+7/22/2024,Parsley,35
+7/29/2024,Parsley,30
+8/5/2024,Parsley,20
+8/12/2024,Parsley,30
+8/19/2024,Parsley,25
+8/26/2024,Parsley,30
+9/2/2024,Parsley,40
+9/9/2024,Parsley,33
+9/16/2024,Parsley,35
+9/23/2024,Parsley,40
+9/30/2024,Parsley,25
+10/7/2024,Parsley,35
+10/14/2024,Parsley,40
+10/21/2024,Parsley,
+10/28/2024,Parsley,40
+11/4/2024,Parsley,30
+11/11/2024,Parsley,15
+11/18/2024,Parsley,
+11/25/2024,Parsley,15
+12/2/2024,Parsley,15
+12/9/2024,Parsley,17
+12/16/2024,Parsley,20
+12/23/2024,Parsley,17
+1/1/2024,Red cabbage,40
+1/8/2024,Red cabbage,40
+1/15/2024,Red cabbage,40
+1/22/2024,Red cabbage,40
+1/29/2024,Red cabbage,40
+2/5/2024,Red cabbage,20
+2/12/2024,Red cabbage,40
+2/19/2024,Red cabbage,40
+2/26/2024,Red cabbage,40
+3/4/2024,Red cabbage,40
+3/11/2024,Red cabbage,40
+3/18/2024,Red cabbage,40
+3/25/2024,Red cabbage,40
+4/1/2024,Red cabbage,40
+4/8/2024,Red cabbage,40
+4/15/2024,Red cabbage,40
+4/22/2024,Red cabbage,40
+4/29/2024,Red cabbage,40
+5/6/2024,Red cabbage,40
+5/13/2024,Red cabbage,50
+5/20/2024,Red cabbage,40
+5/27/2024,Red cabbage,40
+6/3/2024,Red cabbage,40
+6/10/2024,Red cabbage,40
+6/17/2024,Red cabbage,40
+6/24/2024,Red cabbage,40
+7/1/2024,Red cabbage,
+7/8/2024,Red cabbage,40
+7/15/2024,Red cabbage,40
+7/22/2024,Red cabbage,40
+7/29/2024,Red cabbage,40
+8/5/2024,Red cabbage,40
+8/12/2024,Red cabbage,40
+8/19/2024,Red cabbage,40
+8/26/2024,Red cabbage,40
+9/2/2024,Red cabbage,40
+9/9/2024,Red cabbage,40
+9/16/2024,Red cabbage,40
+9/23/2024,Red cabbage,49
+9/30/2024,Red cabbage,40
+10/7/2024,Red cabbage,40
+10/14/2024,Red cabbage,4
+10/21/2024,Red cabbage,40
+10/28/2024,Red cabbage,30
+11/4/2024,Red cabbage,40
+11/11/2024,Red cabbage,40
+11/18/2024,Red cabbage,45
+11/25/2024,Red cabbage,40
+12/2/2024,Red cabbage,40
+12/9/2024,Red cabbage,40
+12/16/2024,Red cabbage,40
+12/23/2024,Red cabbage,40
+1/1/2024,Spinach,20
+1/8/2024,Spinach,30
+1/15/2024,Spinach,17
+1/22/2024,Spinach,15
+1/29/2024,Spinach,10
+2/5/2024,Spinach,10
+2/12/2024,Spinach,10
+2/19/2024,Spinach,14
+2/26/2024,Spinach,10
+3/4/2024,Spinach,10
+3/11/2024,Spinach,10
+3/18/2024,Spinach,12
+3/25/2024,Spinach,14
+4/1/2024,Spinach,17
+4/8/2024,Spinach,15
+4/15/2024,Spinich,13
+4/22/2024,Spinach,15
+4/29/2024,Spinach,20
+5/6/2024,Spinach,25
+5/13/2024,Spinach,20
+5/20/2024,Spinach,25
+5/27/2024,Spinach,25
+6/3/2024,Spinach,20
+6/10/2024,Spinach,40
+6/17/2024,Spinach,20
+6/24/2024,Spinach,35
+7/1/2024,Spinach,45
+7/8/2024,Spinich,50
+7/15/2024,Spinach,50
+7/22/2024,Spinach,65
+7/29/2024,Spinach,75
+8/5/2024,Spinach,80
+8/12/2024,Spinach,55
+8/19/2024,Spinach,50
+8/26/2024,Spinach,60
+9/2/2024,Spinach,45
+9/9/2024,Spinach,40
+9/16/2024,Spinach,33
+9/23/2024,Spinach,33
+9/30/2024,Spinach,30
+10/7/2024,Spinach,25
+10/14/2024,Spinach,27
+10/21/2024,Spinach,22
+10/28/2024,Spinach,25
+11/4/2024,Spinach,25
+11/11/2024,Spinach,15
+11/18/2024,Spinach,17
+11/25/2024,Spinach,17
+12/2/2024,Spinach,20
+12/9/2024,Spinach,20
+12/16/2024,Spinach,25
+12/23/2024,Spinich,22
+1/1/2024,Swiss chard,15
+1/8/2024,Swiss chard,11
+1/15/2024,Swiss chard,11
+1/22/2024,Swiss chard,10
+1/29/2024,Swiss chard,11
+2/5/2024,Swiss chard,16
+2/12/2024,Swiss chard,13
+2/19/2024,Swiss chard,13
+2/26/2024,Swiss chard,12
+3/4/2024,Swiss chard,20
+3/11/2024,Swiss chard,35
+3/18/2024,Swiss chard,20
+3/25/2024,Swiss chard,7
+4/1/2024,Swiss chard,5
+4/8/2024,Swiss chard,13
+4/15/2024,Swiss chard,10
+4/22/2024,Swiss chard,12
+4/29/2024,Swiss chard,10
+5/6/2024,Swiss chard,6
+5/13/2024,Swiss chard,5
+5/20/2024,Swiss chard,4
+5/27/2024,Swiss chard,5
+6/3/2024,Swiss chard,6
+6/10/2024,Swiss chard,6
+6/17/2024,Swiss chard,8
+6/24/2024,Swiss chard,7
+7/1/2024,Swiss chard,6
+7/8/2024,Swiss chard,6
+7/15/2024,Swiss chard,15
+7/22/2024,Swiss chard,45
+7/29/2024,Swiss chard,35
+8/5/2024,Swiss chard,30
+8/12/2024,Swiss chard,40
+8/19/2024,Swiss chard,25
+8/26/2024,Swiss chard,15
+9/2/2024,Swiss chard,15
+9/9/2024,Swiss chard,15
+9/16/2024,Swiss chard,35
+9/23/2024,Swiss chard,15
+9/30/2024,Swiss chard,15
+10/7/2024,Swiss chard,10
+10/14/2024,Swiss chard,10
+10/21/2024,Swiss chard,7
+10/28/2024,Swiss chard,8
+11/4/2024,Swiss chard,10
+11/11/2024,Swiss chard,8
+11/18/2024,Swiss chard,7
+11/25/2024,Swiss chard,8
+12/2/2024,Swiss chard,18
+12/9/2024,Swiss chard,15
+12/16/2024,Swiss chard,15
+12/23/2024,Swiss chard,17
