@@ -16,15 +16,14 @@ The **feasibility challenge** lies in the high start-up costs. One way to improv
 ## ⚙️ Data Processing Workflow
 
 ### 1️⃣ Data Extraction & Wrangling
-- **Source**: Database from the Agriculture Ministry of Jordan (`V_mar_2024`).
+- **Source**: Database from the Agriculture Ministry of Jordan (`V_mar_2024`) along with 2024 market data (raw_selling_price_data1_1.csv).
 - **Python script**: `DataWrangling_portfolio.py`  
   This script:
-  - Connects to the database.
-  - Extracts the `Vegetable_Selling` table.
-  - Cleans and wrangles the data.
+  -Reads raw_selling_price_data1_1.
+  -Cleans and wrangles the data.
 
 ### 2️⃣ SQL Queries & CSV Generation
-The cleaned data is used to generate **five CSV tables**:
+The cleaned data is used to generate **five CSV tables** by connecting to the database (V_mar_2024):
 - `cleaned_selling_price_data`
 - `Average selling price per vegetable`
 - `Demand_vs_productivity_per_vegetable`
